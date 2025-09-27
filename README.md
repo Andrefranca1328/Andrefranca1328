@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o André Luiz De França Junior
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/178437127?v=4" width="180" height="180" style="border-radius:50%; object-fit:cover;" />
+  <img width="437" height="437" alt="178437127-fotor-20250927154810" src="https://github.com/user-attachments/assets/8bf86187-5a52-4469-8737-55759675bbab" />
 </p>
 
 💻 **Software Developer in growing!**  
@@ -31,10 +31,8 @@ Sempre em busca de evoluir minhas habilidades e criar soluções práticas para 
 
 - 🔹 **[EasyHealthApiV2](https://github.com/Andrefranca1328/EasyHealthApiV2)** → API que conecta profissionais da área fitness com seu público.  
 - 🔹 **[ToDoList](https://github.com/Andrefranca1328/ToDoList)** → Aplicação simples para gerenciamento de tarefas.  
-- 🔹 **[sistema_node_handlebars](https://github.com/Andrefranca1328/sistema_node_handlebars)** → Sistema desenvolvido em atividade acadêmica.  
 - 🔹 **[Lost-Warrior](https://github.com/Andrefranca1328/Lost-Warrior)** → Jogo simples utilizando Pygame.  
 - 🔹 **[DonateTogetherApi](https://github.com/Andrefranca1328/DonateTogetherApi)** → Plataforma de doações.  
-- 🔹 **[EasyHealthAPI](https://github.com/Andrefranca1328/EasyHealthAPI)** → Projeto interdisciplinar da Fatec Cotia.  
 
 ---
 
@@ -58,7 +56,7 @@ Sempre em busca de evoluir minhas habilidades e criar soluções práticas para 
 ## 📫 Contato  
 
 Se quiser trocar uma ideia sobre tecnologia, projetos ou oportunidades:  
-📧 **andrelu.franca@gmail.com**  
+📧 **andre.l.d.franca@gmail.com**  
 🔗 [LinkedIn](https://linkedin.com/in/andrelu-franca-jr)  
 
 ---
